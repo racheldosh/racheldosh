@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=99bdd2&height=200&text=RACHEL%20COLLINS&fontAlign=30&rotate=-13&fontAlignY=25&desc=Developer%20Relations%20Engineer&descAlign=30.&descAlignY=44&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=99bdd2&height=200&text=RACHEL%20COLLINS&fontAlign=30&rotate=-13&fontAlignY=25&descAlign=30.&descAlignY=44&fontSize=50)
 
 <div align=right>I'm Rachel (she/her) - a Developer Relations Engineer formerly at Google on the Firebase team 🔥</div>
 <br/><br/><br/>
